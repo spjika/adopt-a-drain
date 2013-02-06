@@ -14,4 +14,3 @@ test:
 
 production:
   <<: *DEVELOPMENT
-  database: adopt_a_thing
